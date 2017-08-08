@@ -165,6 +165,10 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
     - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
+    - [ ] [Mastering the Software Engineering Interview (free course)](https://www.coursera.org/learn/cs-tech-interview/):
+        - A Java focused interview prep course.
+    - [ ] [Technical Interview by Pramp (free course)](https://www.udacity.com/course/technical-interview--ud513/):
+        - Another Python focused Technical Interview prep course.
 
 ## Pick One Language for the Interview
 
